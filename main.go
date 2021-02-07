@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tkircsi/hackerrank/timeinwords"
+	"github.com/tkircsi/hackerrank/chocolatefeast"
 )
 
 func main() {
@@ -10,5 +10,6 @@ func main() {
 	// beautiful3s.Test()
 	// mindistances.Test()
 	// halloweensale.Test()
-	timeinwords.Test()
+	// timeinwords.Test()
+	chocolatefeast.Test()
 }
