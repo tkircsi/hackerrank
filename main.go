@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/tkircsi/hackerrank/servicelane/lisasworkbook"
-)
+import "github.com/tkircsi/hackerrank/lisasworkbook"
 
 func main() {
 	// biggergreater.Test()
