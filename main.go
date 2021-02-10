@@ -1,6 +1,6 @@
 package main
 
-import "github.com/tkircsi/hackerrank/lisasworkbook"
+import "github.com/tkircsi/hackerrank/flatland"
 
 func main() {
 	// biggergreater.Test()
@@ -11,5 +11,6 @@ func main() {
 	// timeinwords.Test()
 	// chocolatefeast.Test()
 	// servicelane.Test()
-	lisasworkbook.Test()
+	// lisasworkbook.Test()
+	flatland.Test()
 }
