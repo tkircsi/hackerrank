@@ -27,9 +27,7 @@ func Test() {
 
 // Complete the flatlandSpaceStations function below.
 func flatlandSpaceStations(n int32, c []int32) int32 {
-	fmt.Println(c)
 	sort.Slice(c, func(i, j int) bool { return c[i] < c[j] })
-	fmt.Println(c)
 	var max int32 = 0
 	// check first
 	max = c[0]
