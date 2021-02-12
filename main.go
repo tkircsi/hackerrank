@@ -1,6 +1,8 @@
 package main
 
-import "github.com/tkircsi/hackerrank/fairrations"
+import (
+	"github.com/tkircsi/hackerrank/cavitymap"
+)
 
 func main() {
 	// biggergreater.Test()
@@ -13,5 +15,6 @@ func main() {
 	// servicelane.Test()
 	// lisasworkbook.Test()
 	// flatland.Test()
-	fairrations.Test()
+	// fairrations.Test()
+	cavitymap.Test()
 }
