@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tkircsi/hackerrank/cavitymap"
+	"github.com/tkircsi/hackerrank/manasaandstones"
 )
 
 func main() {
@@ -16,5 +16,6 @@ func main() {
 	// lisasworkbook.Test()
 	// flatland.Test()
 	// fairrations.Test()
-	cavitymap.Test()
+	// cavitymap.Test()
+	manasaandstones.Test()
 }
