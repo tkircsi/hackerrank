@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tkircsi/hackerrank/manasaandstones"
+	"github.com/tkircsi/hackerrank/thegridsearch"
 )
 
 func main() {
@@ -17,5 +17,6 @@ func main() {
 	// flatland.Test()
 	// fairrations.Test()
 	// cavitymap.Test()
-	manasaandstones.Test()
+	// manasaandstones.Test()
+	thegridsearch.Test()
 }
