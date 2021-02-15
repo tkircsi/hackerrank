@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tkircsi/hackerrank/thegridsearch"
+	"github.com/tkircsi/hackerrank/happyladybugs"
 )
 
 func main() {
@@ -18,5 +18,6 @@ func main() {
 	// fairrations.Test()
 	// cavitymap.Test()
 	// manasaandstones.Test()
-	thegridsearch.Test()
+	// thegridsearch.Test()
+	happyladybugs.Test()
 }
