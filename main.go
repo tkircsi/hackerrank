@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/tkircsi/hackerrank/happyladybugs"
-)
+import "github.com/tkircsi/hackerrank/strangecounter"
 
 func main() {
 	// biggergreater.Test()
@@ -19,5 +17,6 @@ func main() {
 	// cavitymap.Test()
 	// manasaandstones.Test()
 	// thegridsearch.Test()
-	happyladybugs.Test()
+	// happyladybugs.Test()
+	strangecounter.Test()
 }
