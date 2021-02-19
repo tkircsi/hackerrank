@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/tkircsi/hackerrank/threedsurface"
-)
+import "github.com/tkircsi/hackerrank/absolutepermut"
 
 func main() {
 	// biggergreater.Test()
@@ -21,5 +19,6 @@ func main() {
 	// thegridsearch.Test()
 	// happyladybugs.Test()
 	// strangecounter.Test()
-	threedsurface.Test()
+	// threedsurface.Test()
+	absolutepermut.Test()
 }
