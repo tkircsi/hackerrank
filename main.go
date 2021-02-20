@@ -1,6 +1,8 @@
 package main
 
-import "github.com/tkircsi/hackerrank/absolutepermut"
+import (
+	"github.com/tkircsi/hackerrank/bomberman"
+)
 
 func main() {
 	// biggergreater.Test()
@@ -20,5 +22,6 @@ func main() {
 	// happyladybugs.Test()
 	// strangecounter.Test()
 	// threedsurface.Test()
-	absolutepermut.Test()
+	// absolutepermut.Test()
+	bomberman.Test()
 }
