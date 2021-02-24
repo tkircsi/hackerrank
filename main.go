@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tkircsi/hackerrank/bomberman"
+	"github.com/tkircsi/hackerrank/emassupercomputer"
 )
 
 func main() {
@@ -23,5 +23,6 @@ func main() {
 	// strangecounter.Test()
 	// threedsurface.Test()
 	// absolutepermut.Test()
-	bomberman.Test()
+	// bomberman.Test()
+	emassupercomputer.Test()
 }
